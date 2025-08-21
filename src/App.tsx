@@ -3,7 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import LandingPage from "./pages/LandingPage";
 import Login from "./pages/Login";
 import Signup from "./pages/Signup";
-import Profile from "./pages/profile";
+import Profile from "./pages/User";
 
 const App: React.FC = () => {
   return (
